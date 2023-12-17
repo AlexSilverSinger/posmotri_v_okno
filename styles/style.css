@@ -289,7 +289,6 @@ input[type='checkbox']:checked + .search-form__pseudo-checkbox::before {
 .more-button {
   display: flex;
   width: 399px;
-  height: 34px;
   justify-content: center;
   align-items: center;
 }
